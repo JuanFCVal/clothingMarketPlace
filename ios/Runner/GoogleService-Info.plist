@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>661889541971-94g1h5r3ru2i1sd9umi7apgk8sh01cph.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.661889541971-94g1h5r3ru2i1sd9umi7apgk8sh01cph</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>661889541971-8q8culodpmtqjn8l4vmhd5pb6pg8l5nc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzrTjIL0akyWF_fIpTCxH9Gt1VHFPG96A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>661889541971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.marketPlace</string>
+	<key>PROJECT_ID</key>
+	<string>tryfferapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tryfferapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:661889541971:ios:a5b6072e1bd7bb0d86e3a6</string>
+	<key>DATABASE_URL</key>
+	<string>https://tryfferapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

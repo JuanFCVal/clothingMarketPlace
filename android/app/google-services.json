@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "661889541971",
+    "firebase_url": "https://tryfferapp-default-rtdb.firebaseio.com",
+    "project_id": "tryfferapp",
+    "storage_bucket": "tryfferapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661889541971:android:8aa48cab688688c986e3a6",
+        "android_client_info": {
+          "package_name": "com.example.market_place"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661889541971-7j2o9s8j6622nnjicajp03keg8sl3ds0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAymCk3FNiHFrCEDUev3D4K4PQBXFxgTJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661889541971-7j2o9s8j6622nnjicajp03keg8sl3ds0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661889541971-tveucke5qk20jp33i97rseans51cho9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tryffer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661889541971:android:6bfad06878f78f9086e3a6",
+        "android_client_info": {
+          "package_name": "com.example.tryffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661889541971-8q8culodpmtqjn8l4vmhd5pb6pg8l5nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tryffer",
+            "certificate_hash": "55c4872ce243fcdb703456b49f7ea5ecb7119239"
+          }
+        },
+        {
+          "client_id": "661889541971-7j2o9s8j6622nnjicajp03keg8sl3ds0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAymCk3FNiHFrCEDUev3D4K4PQBXFxgTJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661889541971-7j2o9s8j6622nnjicajp03keg8sl3ds0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661889541971-tveucke5qk20jp33i97rseans51cho9p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tryffer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
