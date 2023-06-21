@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:market_place/routes/routes.dart';
 import 'firebase_options.dart';
+import 'themes/light.dart';
 
 void main() async {
   try {
@@ -20,14 +22,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Material App',
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Material App Bar'),
-        ),
-        body: const Center(
-          child: Text('Hello World'),
-        ),
-      ),
+      theme: lightTheme(),
+      routes: getApplicationRoutes(),
+      initialRoute: 'loginOrRegister',
     );
   }
 }
