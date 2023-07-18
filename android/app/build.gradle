@@ -1,3 +1,10 @@
+configurations.all {
+    resolutionStrategy {
+        force 'com.google.android.gms:play-services-places:11.8.0'
+        force 'com.google.android.gms:play-services-location:11.8.0'
+    }
+}
+
 def localProperties = new Properties()
 def localPropertiesFile = rootProject.file('local.properties')
 if (localPropertiesFile.exists()) {
